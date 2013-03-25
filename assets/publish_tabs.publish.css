@@ -3,6 +3,11 @@
 	top: -99999em;
 	left: -99999em;
 }
+.subsection .tab-group {
+    position:relative;
+    top:0;
+    left:0;
+}
 
 .tab-group-selected {
 	position: static;
